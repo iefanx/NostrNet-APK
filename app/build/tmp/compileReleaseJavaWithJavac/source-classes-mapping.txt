@@ -1,0 +1,8 @@
+iefan/nostrnet/www/twa/DelegationService.java
+ iefan.nostrnet.www.twa.DelegationService
+iefan/nostrnet/www/twa/BuildConfig.java
+ iefan.nostrnet.www.twa.BuildConfig
+iefan/nostrnet/www/twa/LauncherActivity.java
+ iefan.nostrnet.www.twa.LauncherActivity
+iefan/nostrnet/www/twa/Application.java
+ iefan.nostrnet.www.twa.Application
